@@ -1,0 +1,8 @@
+{
+    "name": "elquiane/vagas",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
